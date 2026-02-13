@@ -1,12 +1,4 @@
-/Manifest.toml
-docs/build/
-JuliaSysimage.so
-LocalPreferences.toml
-.vscode/
-*.cov
-docs/Manifest.toml
-lcov.info
-benchmark/Manifest.toml
-/.benchmarkci
-/benchmark/*.json
-results_ModelPredictiveControl*
+__pycache__/
+*.pyc
+*.png
+.DS_Store
